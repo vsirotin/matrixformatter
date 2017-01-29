@@ -1,4 +1,6 @@
-Simple Java 8 solution for formatting representation of matrix diverse types (Double, Integer, String etc.). This is the only class without using other libraries. 
+#Simple Java 8 solution for formatting representation of matrix diverse types (Double, Integer, String etc.). 
+
+##This is the only class without using other libraries. 
 
 The matrix can be set e.g.as:
 
